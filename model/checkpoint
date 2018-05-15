@@ -1,0 +1,2 @@
+model_checkpoint_path: "intelligent_qas.ckpt"
+all_model_checkpoint_paths: "intelligent_qas.ckpt"
